@@ -1,3 +1,3 @@
 <?php
 
-echo 't2est';
+echo 'te3st';
